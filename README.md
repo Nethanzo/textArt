@@ -51,4 +51,25 @@ Printable ASCII [32..126]:
 @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _
 ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~
 ```
+<p align="justify" direction="rtl">
 
+همان طور که مشاهده می‌کنید، در این جدول، کاراکترهای مربوط به رسم جدول وجود ندارد. برای استفاده از این کاراکترها، جدول تکمیلی کدهای اسکی (EXTENDED ASCII TABLE) به صورت زیر است.
+</p>
+<div align="center">
+<img src="ExtASCII.jpg"></img>
+</div>
+
+<p align="justify" direction="rtl">
+نکته: استفاده از ترکیب ALT و کد اسکی، در اکثر ادیتورها (IDEها) کاراکتر متناظر را نشان می‌دهد، ولی در محیط ویژوال استدیو 2022، هنگام اجرای برنامه، کاراکترهای پیشرفته اسکی در کنسول نمایش داده نمی‌شوند. در این صورت از دستور (کد اسکی)CHAR استفاده می‌کنیم.
+</p>
+
+```
+std::cout << char(206) << char(205);
+```
+
+<p align="justify" direction="rtl">
+که خروجی این برنامه به صورت زیر خواهد بود.</p>
+
+```
+╬═
+```
