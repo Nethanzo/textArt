@@ -16,6 +16,10 @@
 <p align="center"; direction="rtl">اول این که برای اطلاعات بیشتر، اگر دوست داشتید، صفحه ویکی پدیا مربوط به کدهای اسکی را مطالعه کنید.</p>
 <h4 align="center">
   <a href="https://en.wikipedia.org/wiki/ASCII">
-    <img></img>
+    <img src="PRV1.jpg" style="width:120px;height:120px;"></img>
   </a>
 </h4>
+
+<p align="justify"; direction="rtl">
+برای استفاده از کدهای اسکی، کافیست کلید ALT روی صفحه کلید را نگهداشته و کد مربوط به کاراکتر مورد نظر را وارد کنید. برای مثال ALT + 196 = ─ یا  ALT + 125 = }
+</p>
