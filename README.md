@@ -13,4 +13,9 @@
 </p>
 
 <h4>کدهای اسکی، کلید نمایش کاراکترها </h4>
-
+<p align="center"; direction="rtl">اول این که برای اطلاعات بیشتر، اگر دوست داشتید، صفحه ویکی پدیا مربوط به کدهای اسکی را مطالعه کنید.</p>
+<h4 align="center">
+  <a href="https://en.wikipedia.org/wiki/ASCII">
+    <img></img>
+  </a>
+</h4>
